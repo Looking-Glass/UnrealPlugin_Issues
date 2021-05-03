@@ -1,2 +1,2 @@
 # UE4Plugin_Issues
- A public repository for releases and issue tracking for the UE4 Looking Glass Plugin
+This issues tracker is no longer being used! Please make use of our feedback form instead, [available here](https://looking-glass.canny.io/feedback).
